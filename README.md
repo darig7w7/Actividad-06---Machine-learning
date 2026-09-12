@@ -1,10 +1,18 @@
-# Actividad 06 — Algoritmos Genéticos en Aprendizaje de Máquina
+# Actividad 06 - Algoritmos Genéticos en Aprendizaje de Máquina
 
-**Universidad Nacional del Altiplano - Puno** · Ingeniería de Sistemas · Maestría en Ciencia de Datos
+**Universidad Nacional del Altiplano - Puno**
+
+Ingeniería de Sistemas
+
+Maestría en Ciencia de Datos
+
 **Curso:** Machine Learning I - Grupo A
-**Presentado por:** Darwin Rigoberto Mamani Quispe, Melbis Chino Huaycani
 
-📓 Notebook completo: [`Actividad_06.ipynb`](./Actividad_06.ipynb)
+**Presentado por:** 
+* Darwin Rigoberto Mamani Quispe
+* Melbis Chino Huaycani
+
+Notebook completo: [`Actividad-06.ipynb`](./Actividad-06.ipynb)
 
 ---
 
@@ -69,7 +77,8 @@ En los tres casos el ciclo del AG sigue la misma estructura:
 
 ## Conclusiones
 
-- En **feature selection**, el AG redujo el número de variables en casi 65% (de 30 a 11) mejorando la validación cruzada, aunque el accuracy puntual de test bajó levemente — resultado esperado, ya que el AG optimiza directamente sobre CV del set de entrenamiento y una sola partición de test puede no reflejar exactamente esa mejora.
-- En **hyperparameter optimization**, el AG mejoró tanto la validación cruzada como el accuracy de test del árbol frente a la configuración por defecto, encontrando un árbol menos profundo y menos propenso a sobreajustar.
-- En **neuroevolution**, el AG encontró una arquitectura de red neuronal claramente superior a una arquitectura genérica por defecto (accuracy de test de 0.953 a 0.977).
-- **En general**, en los tres casos el AG permitió explorar espacios de búsqueda muy grandes (2³⁰ combinaciones de características, miles de combinaciones de hiperparámetros, y un espacio combinatorio de arquitecturas de red) de forma mucho más eficiente que una búsqueda manual o exhaustiva, encontrando en pocas generaciones soluciones competitivas o mejores que las configuraciones por defecto.
+- En feature selection, el AG redujo el número de variables en casi 65% (de 30 a 11) mejorando la validación cruzada, aunque el accuracy puntual de test bajó levemente — resultado esperado, ya que el AG optimiza directamente sobre CV del set de entrenamiento y una sola partición de test puede no reflejar exactamente esa mejora.
+- En hyperparameter optimization, el AG mejoró tanto la validación cruzada como el accuracy de test del árbol frente a la configuración por defecto, encontrando un árbol menos profundo y menos propenso a sobreajustar.
+- En neuroevolution, el AG encontró una arquitectura de red neuronal claramente superior a una arquitectura genérica por defecto (accuracy de test de 0.953 a 0.977).
+
+En general, en los tres casos el AG permitió explorar espacios de búsqueda muy grandes (2³⁰ combinaciones de características, miles de combinaciones de hiperparámetros, y un espacio combinatorio de arquitecturas de red) de forma mucho más eficiente que una búsqueda manual o exhaustiva, encontrando en pocas generaciones soluciones competitivas o mejores que las configuraciones por defecto.
