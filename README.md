@@ -8,7 +8,7 @@
 * Darwin Rigoberto Mamani Quispe
 * Melbis Chino Huaycani
 
-Notebook completo: [`Actividad_06.ipynb`](./Actividad_06.ipynb)
+Notebook completo: [`Actividad-06.ipynb`](./Actividad-06.ipynb)
 
 ---
 
