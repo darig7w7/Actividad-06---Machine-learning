@@ -1,10 +1,14 @@
 # Actividad 06 — Algoritmos Genéticos en Aprendizaje de Máquina
 
 **Universidad Nacional del Altiplano - Puno** · Ingeniería de Sistemas · Maestría en Ciencia de Datos
-**Curso:** Machine Learning I - Grupo A
-**Presentado por:** Darwin Rigoberto Mamani Quispe, Melbis Chino Huaycani
 
-📓 Notebook completo: [`Actividad_06.ipynb`](./Actividad_06.ipynb)
+**Curso:** Machine Learning I - Grupo A
+
+**Presentado por:** 
+* Darwin Rigoberto Mamani Quispe
+* Melbis Chino Huaycani
+
+Notebook completo: [`Actividad_06.ipynb`](./Actividad_06.ipynb)
 
 ---
 
