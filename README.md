@@ -1,4 +1,4 @@
-# Actividad 06 — Algoritmos Genéticos en Aprendizaje de Máquina
+# Actividad 06 - Algoritmos Genéticos en Aprendizaje de Máquina
 
 **Universidad Nacional del Altiplano - Puno** · Ingeniería de Sistemas · Maestría en Ciencia de Datos
 
